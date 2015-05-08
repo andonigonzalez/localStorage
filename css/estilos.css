@@ -1,0 +1,89 @@
+
+h1 {
+	color: #000 !important;
+	text-shadow:none;
+}
+.tpv {
+	width:140px;
+	padding-bottom: 0;
+}
+#listadoProductos{
+	text-align:center;
+}
+#listadoProductos a{
+	margin-left: 10px;
+}
+.footer {
+	background-color:#ddd;
+}
+#btnFinalizarCompra{
+	margin-bottom: 21px;
+	margin-top: 21px;
+	width: 200px;
+	height: 42px;
+	font-size: 16px;
+}
+
+/************* CARRITO **********************/
+/****** CARRITO *******/
+/****** ListView *******/
+.classListViewCarrito .ui-btn-icon-notext:after{
+	margin-left: -15px;
+	margin-top: -15px;
+}
+
+.classListViewCarrito .ui-btn-icon-notext:after{
+	width: 30px;
+	height: 30px;
+}
+
+.ui-content .classListViewCarrito{
+	margin-top:0px;
+	margin-bottom:3px;
+	}
+.classListViewCarrito>.ui-li-has-thumb>.ui-btn, .classListViewCarrito>.ui-li-static.ui-li-has-thumb{
+	padding-left:5.75em;
+	padding-top:6px;
+	padding-bottom:3px;
+	opacity: 0.9;
+}
+.classListViewCarrito li h5{
+	font-size: 16px;
+    white-space: normal;
+	color: #000;
+}
+.classListViewCarrito li p{
+	font-size:14px;
+	margin-bottom:2px;
+	margin-top:0px;
+	color: #000;
+	}
+.classListViewCarrito li img{
+	padding:12px;
+	} 
+.classListViewCarrito span .ui-li-aside {
+	top: 5px;
+	right: 5px;
+	width:34px;
+	height:34px;
+	}
+.classListViewCarrito p span .inlineIcon {
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+	margin-left:10px;
+    margin-right: 10px;
+	width:34px;
+	height:34px;
+}
+.classListViewCarrito label {
+	display: inline-block;
+    position: relative;
+    vertical-align: middle;
+	margin-left:3px;
+    margin-right: 3px;
+	font-size:16px;
+}
+.classpCarrito {
+	height:48px;
+	}
